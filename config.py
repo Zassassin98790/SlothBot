@@ -9,6 +9,9 @@ from dotenv import load_dotenv
 # Load environment variables from .env file if it exists
 load_dotenv()
 
+DISCORD_TOKEN =
+TORN_API_TOKEN =
+
 class Config:
     """Bot configuration class."""
     
